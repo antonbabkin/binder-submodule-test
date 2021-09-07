@@ -1,0 +1,3 @@
+#!/bin/bash
+ln --symbolic --target-directory=nbs ../main
+ln --symbolic --target-directory=main ../reseng/reseng
